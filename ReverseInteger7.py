@@ -24,7 +24,27 @@ class Solution:
             return int(num)
 
 
+    def reverse2(self, x: int) -> int:
+        neg = False
+        if x < 0:
+            x *= -1
+            neg = True
+        elif x == 0:
+            return 0
+
+        num = str(x)
+
+        if int(num[::-1]) >= 2147483647:
+            return 0
+        if neg:
+            return int(num[::-1]) * -1
+        else:
+            return int(num[::-1])
+
 print(Solution().reverse(123))
 print(Solution().reverse(-123))
 print(Solution().reverse(120))
 print(Solution().reverse(1534236469))
+print(Solution().reverse2(-123))
+print(Solution().reverse2(120))
+print(Solution().reverse2(1534236469))
