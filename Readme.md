@@ -1,4 +1,4 @@
-# Coding-with-fasting
+# Leetcode-Challenge
 
 ## Number of problems completed
 Total: 21
