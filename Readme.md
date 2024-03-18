@@ -5,7 +5,7 @@ Total: 21
 Python: 20
 Java: 1  
 
-**##Problems Difficulty**
+### Problems Difficulty
 Easy: 20
 Medium: 1
 Hard: 0
