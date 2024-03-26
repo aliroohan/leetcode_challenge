@@ -1,13 +1,13 @@
 # Leetcode-Challenge
 
 ## Number of problems completed
-Total: 40
-Python: 38
+Total: 41
+Python: 39
 Java: 2
 
 ### Problems Difficulty
 Easy: 36
-Medium: 4
+Medium: 5
 Hard: 0
 
 ## Python
