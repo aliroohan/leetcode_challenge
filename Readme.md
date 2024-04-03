@@ -1,14 +1,14 @@
 # Leetcode-Challenge
 
 ## Number of problems completed
-Total: 52
-Python: 41
-Java: 11
+Total: 55
+Python: 42
+Java: 13
 
 ### Problems Difficulty
 Easy: 42
-Medium: 9
-Hard: 1
+Medium: 10
+Hard: 3
 
 ## Python
 This folder contains all the problems that I will solve using Python
